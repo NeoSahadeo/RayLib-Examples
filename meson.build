@@ -7,6 +7,8 @@ source = {
   '02': 'src/02.c',
   '03': 'src/03.c',
   '09': 'src/09.c',
+  '10': 'src/10.c',
+  '11': 'src/11.c',
 }
 
 raylib_dep = dependency('raylib')
